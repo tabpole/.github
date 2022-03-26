@@ -26,10 +26,13 @@
   
 <hr>
   
-<h3> Application list </h3>
+<h3> Flutter </h3>
 
 <ol>
   <li>
     <a href="https://github.com/tabpole/laramin" target="_blank">Laramin</a>
+  </li>
+  <li>
+    <a href="https://github.com/tabpole/calculator" target="_blank">Calculator</a>
   </li>
 </ol>
