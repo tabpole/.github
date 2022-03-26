@@ -21,7 +21,7 @@
 
 
 <h3 align="center">
-  <a href="https://discord.gg/KBmDrwJKRq" target="_blank">Click to join Discord Server</a>
+  <a href="https://discord.gg/gqsBNxTX" target="_blank">Click to join Discord Server</a>
 </h3>
   
 <hr>
