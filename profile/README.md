@@ -55,6 +55,6 @@
     <a href="https://github.com/tabpole/flutter-handbook" target="_blank"> Flutter HandBook </a>
   </li>
   <li>
-    <a href="https://github.com/tabpole/laravel-handbook" target="_blank"> Lalavel HandBook </a>
+    <a href="https://github.com/tabpole/laravel-handbook" target="_blank"> Laravel HandBook </a>
   </li>
 </ol>
