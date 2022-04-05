@@ -43,6 +43,18 @@
 
 <ol>
   <li>
+    <a href="https://github.com/tabpole/github-handbook" target="_blank"> Github HandBook </a>
+  </li>
+  <li>
     <a href="https://github.com/tabpole/dart-handbook" target="_blank"> Dart HandBook </a>
+  </li>
+  <li>
+    <a href="https://github.com/tabpole/php-handbook" target="_blank"> Php HandBook </a>
+  </li>
+  <li>
+    <a href="https://github.com/tabpole/flutter-handbook" target="_blank"> Flutter HandBook </a>
+  </li>
+  <li>
+    <a href="https://github.com/tabpole/laravel-handbook" target="_blank"> Lalavel HandBook </a>
   </li>
 </ol>
