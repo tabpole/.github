@@ -43,7 +43,7 @@
 
 <ol>
   <li>
-    <a href="https://github.com/tabpole/github-handbook" target="_blank"> Github HandBook </a>
+    <a href="https://github.com/tabpole/git-handbook" target="_blank"> Git HandBook </a>
   </li>
   <li>
     <a href="https://github.com/tabpole/dart-handbook" target="_blank"> Dart HandBook </a>
