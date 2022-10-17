@@ -3,7 +3,7 @@
 </h1>
 
   
-<h4 align="center">Languages and Tools We Use :<h4>
+<h4 align="center">Languages and tools we use :<h4>
   
 <p align="center"> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
@@ -19,7 +19,7 @@
 
 
 <h4 align="center">
-  <a href="https://discord.gg/mFXvyddT" target="_blank">Click to join Discord Server</a>
+  <a href="https://discord.gg/mFXvyddT" target="_blank">Click to join discord server</a>
 </h4>
   
 <hr>
