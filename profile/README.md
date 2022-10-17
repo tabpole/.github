@@ -3,9 +3,7 @@
 </h1>
 
   
-<h3 align="center">Languages and Tools We Use :<h3>
-
-<br>
+<h4 align="center">Languages and Tools We Use :<h4>
   
 <p align="center"> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
@@ -20,9 +18,9 @@
 </p>
 
 
-<h3 align="center">
+<h4 align="center">
   <a href="https://discord.gg/mFXvyddT" target="_blank">Click to join Discord Server</a>
-</h3>
+</h4>
   
 <hr>
   
@@ -39,7 +37,7 @@
   
  <hr>
  
- <h3> HandBooks </h3>
+ <h4> HandBooks </h4>
 
 <ol>
   <li>
