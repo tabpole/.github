@@ -46,4 +46,10 @@
   <li>
     <a href="https://github.com/tabpole/docker" target="_blank"> Docker HandBook </a>
   </li>
+  <li>
+    <a href="https://github.com/tabpole/get-cli" target="_blank"> Get CLI </a>
+  </li>
+  <li>
+    <a href="https://github.com/tabpole/getx" target="_blank"> Getx </a>
+  </li>
 </ol>
