@@ -19,37 +19,7 @@
 
 
 <h4 align="center">
-  <a href="https://discord.gg/mFXvyddT" target="_blank">Click to join discord server</a>
+  <a href="https://tabpole.github.io" target="_blank">Visit Website</a>
 </h4>
   
-<hr>
-  
-<h3> Flutter </h3>
 
-<ol>
-  <li>
-    <a href="https://github.com/tabpole/laramin" target="_blank">Laramin</a>
-  </li>
-  <li>
-    <a href="https://github.com/tabpole/calculator" target="_blank">Calculator</a>
-  </li>
-</ol>
-  
- <hr>
- 
- <h4> HandBooks </h4>
-
-<ol>
-  <li>
-    <a href="https://github.com/tabpole/git-handbook" target="_blank"> Git HandBook </a>
-  </li>
-  <li>
-    <a href="https://github.com/tabpole/docker" target="_blank"> Docker HandBook </a>
-  </li>
-  <li>
-    <a href="https://github.com/tabpole/get-cli" target="_blank"> Get CLI </a>
-  </li>
-  <li>
-    <a href="https://github.com/tabpole/getx" target="_blank"> Getx </a>
-  </li>
-</ol>
